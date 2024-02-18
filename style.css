@@ -11,11 +11,12 @@ body{
  
  align-items: center;
  justify-content: center;
- margin-top: 15%;
- margin-left: 42%;
+ margin-top: 5%;
+ margin-left: 16%;
  color: white;
  font-weight: 200;
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ max-width: 434px;
 }
 .link1{
     color:white; 
@@ -23,6 +24,11 @@ body{
     border-bottom-color: azure;
 }
 img{
-    margin: 150px;
+    display: flex;
+    margin: auto;
+    height: 360px;
+    width: auto;
+    padding-bottom: 110px;
     
 }
+li{padding: 15px;}
